@@ -142,6 +142,7 @@ p {
     height: 100vh;
     margin-top: -4rem;
     color: #fff;
+    background-attachment: fixed;
 }
 
 #showcase .showcase-content {
